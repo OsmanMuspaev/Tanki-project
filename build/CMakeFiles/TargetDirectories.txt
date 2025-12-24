@@ -1,0 +1,3 @@
+/Users/osman-nyri/Desktop/sfmlProject/build/CMakeFiles/MyGame.dir
+/Users/osman-nyri/Desktop/sfmlProject/build/CMakeFiles/edit_cache.dir
+/Users/osman-nyri/Desktop/sfmlProject/build/CMakeFiles/rebuild_cache.dir
